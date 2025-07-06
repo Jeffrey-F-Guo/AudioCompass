@@ -1,0 +1,1 @@
+// temporary ts file. will be replaced with full react environment
